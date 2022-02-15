@@ -1,0 +1,33 @@
+.focused {
+    height: 500px;
+    background-color: var(--main-color);
+    padding: 94px 0 95px 0;
+}
+.focused__grid {
+    padding-right: 92px;
+    grid-template-rows: 149px 64px 50px;
+    row-gap: 24px;
+    
+}
+.focused__title {
+    margin-top: 25px;
+}
+/* .grid {
+    
+    
+    row-gap: 22px;
+    column-gap: 125px;
+    grid-template-areas: 
+    "title picture"
+    "descr picture"
+    "specification picture";
+} */
+.grid__market {
+    margin-top: 16px;
+    width: 134px;
+    display: flex;
+    justify-content: space-between;
+}
+.grid__icon {
+    fill: white;
+}

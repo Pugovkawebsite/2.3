@@ -1,0 +1,30 @@
+.animated:hover {
+   
+    color: green;
+    text-shadow: -1px -1px yellow;
+    
+    
+}
+.animated_border:hover {
+    border: solid;
+}
+
+.weight:hover {
+   
+    text-shadow: -0.5px -0.5px #FFFFFF;
+}
+.btn__form:hover {
+    opacity: 0.8;
+}
+.effect2:hover {
+    fill: #bf360c;
+    cursor: pointer;
+}    
+
+
+.grid__icon:hover {
+    fill: green;
+}
+
+    
+  
